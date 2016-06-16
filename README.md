@@ -17,18 +17,28 @@ Subcategory is Electrical
 Name is American Symbols
 Type is a transparent blackground with black foreground 
 
-Category Codes are
+Category Codes are;
+
 AR : Art
+
 LA : Language
+
 MA : Math
+
 SC : Science
 
-Name Codes are category dependent
+Subcategory Codes are category dependent.
 
-Type Codes are
+Name Codes are subcategory dependent.
+
+Type Codes are;
+
 00 : black background, white foreground
+
 01 : transparent background, white foreground
+
 02 : white background, black foreground
+
 03 : transparent background, black foreground
 
 See the wiki for more info
