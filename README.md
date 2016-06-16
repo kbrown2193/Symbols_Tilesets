@@ -41,4 +41,8 @@ TYPE Codes are;
 
 03 : transparent background, black foreground
 
+10 : black background, colored
+
+11 : transparent background, colored
+
 See the wiki for more info
