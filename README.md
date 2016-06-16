@@ -1,4 +1,4 @@
-# SymbolDefintions
+# Symbols_Tilesets
 Tilesets of symbols for art, language, math, and scientific categories. 
 Current Formats:  8 by 8 tiles, pngs
 
