@@ -11,10 +11,10 @@ Subcategory is a 3 character code defining the subcategory
 Name is a 3 character code defining the name.
 Type is a 2 digit code defining the type of image,
 
-Example: SC_ELC_AME_03
+Example: SC_ELC_CUS_03
 Category is Science
-Subcategory is Electrical
-Name is American Symbols
+Subcategory is Electronics
+Name is Circuit Symbols (American / US)
 Type is a transparent blackground with black foreground 
 
 Category Codes are;
