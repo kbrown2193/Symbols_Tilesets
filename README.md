@@ -6,18 +6,18 @@ Naming follows the following convention
 CATEGORY_SUBCATEGORY_NAME_TYPE
 
 
-Category is a two character code defining the category.
-Subcategory is a 3 character code defining the subcategory
-Name is a 3 character code defining the name.
-Type is a 2 digit code defining the type of image,
+CATEGORY is a two character code defining the category.
+SUBCATEGORY is a 3 character code defining the subcategory.
+NAME is a 3 character code defining the name.
+TYPE is a 2 digit code defining the type of image.
 
 Example: SC_ELC_CUS_03
-Category is Science
-Subcategory is Electronics
-Name is Circuit Symbols (American / US)
-Type is a transparent blackground with black foreground 
+CATEGORY is Science
+SUBCATEGORY is Electronics
+NAME is Circuit Symbols (American / US)
+TYPE is a transparent blackground with black foreground 
 
-Category Codes are;
+CATEGORY Codes are;
 
 AR : Art
 
@@ -27,11 +27,11 @@ MA : Math
 
 SC : Science
 
-Subcategory Codes are category dependent.
+SUBCATEGORY Codes are category dependent.
 
-Name Codes are subcategory dependent.
+NAME Codes are subcategory dependent.
 
-Type Codes are;
+TYPE Codes are;
 
 00 : black background, white foreground
 
